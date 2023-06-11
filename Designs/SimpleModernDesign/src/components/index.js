@@ -1,0 +1,5 @@
+export { default as Social } from './Social'
+export { default as Tag } from './Tag'
+export { default as School } from './School'
+export { default as Experience } from './Experience'
+export { default as Footer } from './Footer'
